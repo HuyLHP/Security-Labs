@@ -1,0 +1,19 @@
+# Obsidian
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache
+**/.obsidian/plugins/*/data.json
+**/.obsidian/graph.json
+**/.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Misc
+*.ovpn
+*.tmp
+*.bak
